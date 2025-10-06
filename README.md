@@ -2,9 +2,8 @@
 <h3 align="center">A passionate Full-Stack web developer from Morocco</h3>
 
 <!-- Snake animation -->
-![GitHub Snake Light](https://github.com/MohammedElasli04/MohammedElasli04/blob/master/dist/snake-light.svg#gh-light-mode-only)
-![GitHub Snake Dark](https://github.com/MohammedElasli04/MohammedElasli04/blob/master/dist/snake-dark.svg#gh-dark-mode-only)
-
+![GitHub Snake Light](https://raw.githubusercontent.com/MohammedElasli04/MohammedElasli04/master/dist/snake.svg#gh-light-mode-only)
+![GitHub Snake Dark](https://raw.githubusercontent.com/MohammedElasli04/MohammedElasli04/master/dist/snake-dark.svg#gh-dark-mode-only)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
